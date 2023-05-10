@@ -2,7 +2,7 @@
  * @Author: jia
  * @Date: 2023-05-10 16:39:44
  * @LastEditors: jia
- * @LastEditTime: 2023-05-10 19:26:15
+ * @LastEditTime: 2023-05-10 19:47:51
  * @Description: 请填写简介
 -->
 ## 使用方法
@@ -26,4 +26,8 @@ g++ early_exit.cpp
 g++ dijkstra.cpp 
 ./a.out
 ```
-
+5. 编译运行A*算法
+```shell
+g++ Astar.cpp 
+./a.out
+```
